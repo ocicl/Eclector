@@ -1,0 +1,10 @@
+* Eclector
+
+A portable Common Lisp reader that is highly customizable, can recover
+from errors and can return concrete syntax trees
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/s-expressionists/Eclector.git |
+| commit  | acfb861                                              |
+| systems | eclector eclector-concrete-syntax-tree               |
+|---------+------------------------------------------------------|
