@@ -5,6 +5,6 @@ from errors and can return concrete syntax trees
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/s-expressionists/Eclector.git |
-| commit  | ae690fc                                              |
+| commit  | b2b22cd                                              |
 | systems | eclector eclector-concrete-syntax-tree               |
 |---------+------------------------------------------------------|
